@@ -6,8 +6,7 @@
 
 * [Papers](#papers)
 	* [Deep Learning Based Methods](#deep-learn)
- 	* [LLM Based Methods](#llm)
-    	* [Low resouce NER](#low-resource)	 
+ 	* [LLM Based Methods](#llm)  
 * [Datasets](#datasets)
 
 ## <a name="papers"></a> Papers
