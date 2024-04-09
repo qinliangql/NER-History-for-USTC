@@ -1,4 +1,4 @@
-# NER-History-for-USTC [![Named Entity Recognition](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]()
+# NER-Overview-For-USTC [![Named Entity Recognition](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]()
 
 课题：命名实体识别
 
