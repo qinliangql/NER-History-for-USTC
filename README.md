@@ -1,13 +1,20 @@
 # NER-Overview-For-USTC [![Named Entity Recognition](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]()
 
-课题：命名实体识别
+
+
+![image](https://github.com/qinliangql/NER-History-for-USTC/assets/128774122/b3e17057-c580-486f-bad8-cae86c2d3d1e)
+
 
 ## Table of Content
 
+
 * [Papers](#papers)
 	* [Deep Learning Based Methods](#deep-learn)
- 	* [LLM Based Methods](#llm)  
+   	* [Feature engineering-based Approaches](#feature)
+   	* [Transformer/PLM based Approach](#transformer)
+ 	* [LLM Based Methods](#llm) 
 * [Datasets](#datasets)
+
 
 ## <a name="papers"></a> Papers
 ### <a name="deep-learn"></a> Deep Learning Based Methods
@@ -139,6 +146,13 @@ AAAI,2017,[[Paper Download]](https://ojs.aaai.org/index.php/AAAI/article/view/10
 No\
 **Data**: 
 
-* **Attention is all you need**
-
+### <a name="feature"></a> Feature engineering-based Approaches
+### <a name="transformer"></a> Transformer/PLM based Approach
+### <a name="llm"></a> Large Language Model(LLM) based Approach
 ## <a name="datasets"></a> Datasets
+
+![image](https://github.com/qinliangql/NER-History-for-USTC/assets/128774122/9839b647-e2a6-4b0b-bfa7-0972f8cf2877)
+
+
+![image](https://github.com/qinliangql/NER-History-for-USTC/assets/128774122/f2d307d5-ad1c-4eee-baf6-3986adc17b80)
+
